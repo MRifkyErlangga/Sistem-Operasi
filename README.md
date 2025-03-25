@@ -1,10 +1,5 @@
 **M.Rifky Erlangga_TK@B# Sistem-Operasi**
 # Praktikum 5: Job Control
-
-## Deskripsi
-Repositori ini berisi tugas praktikum 5 mengenai Job Control dalam sistem operasi berbasis Linux.
-Tugas mencakup pengelolaan profile shell, pengaturan prompt PS1, logout message, eksekusi jobs, serta manajemen history.
-
 ## Struktur Direktori
 ```
 Praktikum-5-JobControl/
